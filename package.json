@@ -2,6 +2,6 @@
   "private": true,
 
   "dependencies": {
-    "csscomb": "git://github.com/csscomb/csscomb.js.git#tg/236-plugins-api"
+    "csscomb-core": "~1.0.0"
   }
 }
